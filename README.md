@@ -7,6 +7,6 @@ All code is found in COVID19_Literature_Clustersv1.ipynb.
 Bokeh plot output from COVID19_Literature_Clustersv1.ipynb 
 </p>
 <p align="center">
-  <img width="504" height="504" src="https://github.com/MattLondon101/Images/blob/master/bokeh1.png?raw=true"
+  <img width="1000" height="1000" src="https://github.com/MattLondon101/Images/blob/master/bokeh1.png?raw=true"
 </p>
 
